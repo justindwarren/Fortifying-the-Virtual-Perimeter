@@ -25,4 +25,4 @@ The goal of this lab was to design and implement a SIEM framework around a vulne
 - Threat intelligence and visualization tools for analyzing authentication failures and geolocation-based attack data.
 
 ## Full Lab Report
-
+[View the full lab report here]
